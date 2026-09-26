@@ -7,8 +7,8 @@ Atualmente estou focado em aprender mais sobre desenvolvimento web,
 programação e engenharia de software.
 
 Meu foco atual é **Java, desenvolvimento web e desenvolvimento de aplicações**,
-mas também gosto bastante da parte criativa da tecnologia, como design,
-UI/UX e 3D.
+mas também gosto bastante da parte criativa da tecnologia, como design e
+UI/UX.
 
 ###  Tecnologias
 
