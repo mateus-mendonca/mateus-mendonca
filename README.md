@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Olá! 👋
 
 Eu sou o **Mateus**, estudante de Ciência da Computação na UFPB.
